@@ -1,0 +1,164 @@
+
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+
+footer{
+    background-color: #00669F;
+    height: 40px;
+    color: white;
+}
+
+.caja1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    
+
+    width: 300px;
+}
+
+.caja2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    
+    
+    width: 300px;
+}
+
+.caja3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+
+    width: 300px;
+    margin: 20px
+}
+
+
+.corazon{
+    position: relative;
+    top: 50px;
+    left: 20px
+}
+
+.fotoHarley{
+    border-radius: 50%;
+    position: relative;
+    bottom: 60px;
+    left: 90px;
+}
+.fotoBatman{
+    border-radius: 50%;
+    position: relative;
+    left: 90px;
+    bottom: 60px;
+    align-self: center;
+}
+
+.Encabezado{
+    background-color: #1CD1B0;
+    height: 38px;
+
+}
+
+.verMas{
+    position: relative;
+    left: 90px;
+    
+
+    background-color: #00669F;
+    width: 128.78px;
+    height: 48.52px;
+
+    text-align: center;
+    color: white;
+    
+}
+
+.texto{
+    background-color: #F3F3F3;
+    
+}
+
+.subtexto{
+    margin: 10px
+
+}
+
+.pieDePagina{
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    position: relative;
+    top: 10px;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.75px;
+    position: relative;
+    bottom:50px;
+}
+
+h1 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+    line-height: 46.88px;
+    position: relative;
+
+    left: 28px;
+}
+
+h2{
+    position: relative;
+    left: 90px;
+    bottom: 50px
+}
+
+.Titulo{
+    background-color: #00669F;
+    height: 101px;
+    
+}
+
+.descuento{
+    position: relative;
+    font-size: 15px;
+    top: 10px;
+    width: 56px;
+    height: 18px;
+    left: 10px;
+}
+span{
+    position: relative;
+    font-size: 15px;
+    position: relative;
+    top: 10px;
+    width: 56px;
+    height: 18px;
+    
+}
