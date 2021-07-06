@@ -1,0 +1,40 @@
+#imagen {
+    background-color: #E5E5E5; 
+    text-align: center;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 29,64px;
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+
+}
+
+#texto {
+    margin-left: 80px;
+}
+
+.fechas{
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 16,94px;
+    color: #005677;
+    background-color: #C4C4C4;
+    ;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: white;
+}
